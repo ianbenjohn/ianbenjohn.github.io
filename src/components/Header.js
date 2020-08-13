@@ -61,7 +61,7 @@ const Header = () => {
                 className= {classes.subtitle}
                 >
                 <Typed 
-                strings={['MERN Stack Developer' ,'React.js', 'JavaScript', 'Mongo']} 
+                strings={['IANASNDJAKSDASJN' ,'React.js', 'JavaScript', 'Mongo']} 
                 typeSpeed={60}
                 backSpeed={50}
                 loop
